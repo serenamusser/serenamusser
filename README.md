@@ -1,7 +1,7 @@
 # Welcome to My GitHub! 🤗
 
 ## About Me 🙋‍♀️
-Hello! I'm Serena. I'm currently a Shopkeeper at IKEA, where I manage the Living Room department's operations and lead a dedicated team to success. In addition to my role at IKEA, I'm pursuing a Bachelor’s degree in Computer Science with a concentration in Web and Mobile Applications at the University of North Carolina at Charlotte. I'm set to graduate in December 2024.
+Hello! I'm Serena. I'm currently a Shopkeeper at IKEA, where I manage departmental operations and lead a dedicated team to success. In addition to my role at IKEA, I'm pursuing a Bachelor’s degree in Computer Science with a concentration in Web and Mobile Applications at the University of North Carolina at Charlotte. I'm set to graduate in December 2024.
 
 I have a passion for technology and leadership, and I enjoy bringing these two worlds together. My programming skills span several languages, including Java, JavaScript, Python, C++, HTML/CSS, SQL, and more. I'm always eager to learn new things and take on challenges that help me grow both personally and professionally.
 
