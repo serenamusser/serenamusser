@@ -1,19 +1,18 @@
 # Welcome to My GitHub! 🤗
 
 ## About Me 🙋‍♀️
-Hello! I'm Serena. I'm currently a Shopkeeper at IKEA, where I manage departmental operations and lead a dedicated team to success. In addition to my role at IKEA, I'm pursuing a Bachelor’s degree in Computer Science with a concentration in Web and Mobile Applications at the University of North Carolina at Charlotte. I'm set to graduate in December 2024.
+Hello! I'm Serena. I'm currently a Shopkeeper at IKEA, where I manage business operations and lead a dedicated team to success. In addition to my role at IKEA, I recently graduated from the University of North Carolina at Charlotte with a B.S. in Computer Science, with the honors distinction of Cum Laude.
 
 I have a passion for technology and leadership, and I enjoy bringing these two worlds together. My programming skills span several languages, including Java, JavaScript, Python, C++, HTML/CSS, SQL, and more. I'm always eager to learn new things and take on challenges that help me grow both personally and professionally.
 
 ## Projects 👾
+
+### 1. MindMend 🧘
+A mental health platform that seeks to promote well-being through features such as emotion tracking, peer-reviewed articles, community support groups, and more.
+
 ### 1. Overdrive 🎮
 A simple top-down 2D endless-runner racing game created in Unity. This project was a fun exploration into game development, where I combined my love for gaming with programming.
 
-### 2. FastAPI 👩‍💻
-A basic implementation of an API using the FastAPI framework. This project allowed me to dive into backend development, focusing on creating fast and efficient APIs.
-
-### 3. Assignment 5 👩‍💻
-A more in-depth API implementation utilizing FastAPI, SQLAlchemy, PyMySQL, and Pytest. This project was a significant step in enhancing my backend development skills, particularly in database management and testing.
 
 ## Goals 🎯
 - **Continuous Learning:** I am committed to growing my knowledge in the field of computer science. There’s always something new to learn, and I embrace every opportunity to expand my skill set.
